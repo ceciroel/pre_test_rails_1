@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
   get 'pages/pagex'
-
-  get 'pages/pagex'
 root 'pages#pagex'
 
   # The priority is based upon order of creation: first created -> highest priority.
